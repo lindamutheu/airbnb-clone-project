@@ -10,4 +10,12 @@ DevOps Engineer: Handles deployment, monitoring, and scaling of the backend serv
 
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards. The job of a quality assurance engineer is to verify whether an application meets the requirements—both functional and non-functional. Functional requirements define what an application should do, while non-functional requirements specify how it should do that. To verify both, QA specialists run various checks, followed by analyzing the test results and reporting on the application quality.
 
+"Technology Stack"
+
+Django: A high-level Python web framework used for building the RESTful API.
+
+PostgreSQL: A powerful relational database used for data storage.
+
+GraphQL: Allows for flexible and efficient querying of data.
+
 
