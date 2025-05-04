@@ -18,4 +18,18 @@ PostgreSQL: A powerful relational database used for data storage.
 
 GraphQL: Allows for flexible and efficient querying of data.
 
+"Database Design"
+
+Users:  book a room, users can make payments, and users can leave a review.  
+
+Properties: property reviews, property bookings, payments for the property 
+
+Bookings: checking users reviews,  confirming property status, making payments for your booking
+
+Payments: make payments for your bookings, user payments details, booking and payment efficieny
+
+Reviews:  users to leave reviews,  properties ratings based on reviews,reviews based on booking efficiency.
+
+
+
 
