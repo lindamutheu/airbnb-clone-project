@@ -79,6 +79,15 @@ Rate limiting plays a vital role in API management. It helps contribute to enhan
 6. Encrypt Data Transmitted over APIs
 Encryption is an essential security measure for protecting the confidentiality and integrity of data transmitted over APIs.
 
+"CI/CD Pipeline"
+
+ Automated pipelines for testing and deploying code changes.
+
+1. Jenkins:best for scalings companies
+2. GitHub Actions: best for small teams
+3. 
+
+
 
 
  
