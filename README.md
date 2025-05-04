@@ -2,6 +2,7 @@
 Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security. 
 
 "Team Roles"
+
 Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.Experienced back-end developers not only write code but also do the tasks of an architect—for example, devise an app architecture or design and implement the necessary integrations.
 
 Database Administrator: Manages database design, indexing, and optimizations.
@@ -61,5 +62,25 @@ Features: Post and manage reviews for properties.
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 
+"API Security"
+
+ 1. Strong Authentication Mechanisms
+
+2.  Ensure Strong Authorization Practices
+Authorization is all about implementing access control mechanisms so that even those requests with valid API keys only have access to the objects they have been assigned to.
+
+3.  Validate Inputs and Responses
+ Input validation is the process of checking user input to ensure that it conforms to the expected format, type, length, and range of values. Input validation can help to prevent attacks by identifying and rejecting malicious input before the API processes it.
+
+5. Rate Limiting
+
+Rate limiting plays a vital role in API management. It helps contribute to enhanced security, equitable resource allocation, improved performance and system availability, cost management, and the enforcement of quality of service.
+
+6. Encrypt Data Transmitted over APIs
+Encryption is an essential security measure for protecting the confidentiality and integrity of data transmitted over APIs.
+
+
+
+ 
 
 
